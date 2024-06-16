@@ -18,4 +18,4 @@ In addition to the advantages for businesses, Techstax provides a one-of-a-kind
 Overall, Techstax provides a valuable solution for organizations looking to improve
  their data integration processes, data intelligence capability, and a potentially 
  appealing investment opportunity for those looking to capitalize on the IPaaS
-  market's growth
+  market's growth.

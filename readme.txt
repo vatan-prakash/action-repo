@@ -10,8 +10,7 @@ Techstax provides organizations with access to a wide range of data intelligence
   These tools can assist users in identifying trends, patterns, and insights in 
   their data and making more informed decisions based on this information. 
   Overall, Techstax is a comprehensive solution for organizations looking to
-   improve their data management and analysis processes and gain a better understanding of their operations. As a company, we provide our customers with the tools and support they require to succeed in the increasingly data-driven business world.
-In addition to the advantages for businesses, Techstax provides a one-of-a-kind
+   improve their data management and analysis processes and gain a better understanding of their operations. As a company, we provide our customers with the tools and support they require to
  opportunity for investors. As the use of cloud-based solutions grows, so will 
  the demand for IPaaS platforms like Techstax. This creates a potentially 
  lucrative market for investors, as the adoption of our platform can drive revenue growth for the company.
